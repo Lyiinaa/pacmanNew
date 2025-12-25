@@ -19,8 +19,8 @@ L’architecture est basée sur plusieurs **Design Patterns** pour assurer un co
 ## Membres du Groupe(4 membres)
 
 * Eya Jmili
-* Amal Mannai
-* Wafa Mannai
+* Amal Manai
+* Wafa Manai
 * Lina Hidoussi
 
 
