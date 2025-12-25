@@ -1,0 +1,416 @@
+[2025-12-24 13:14:01] [INFO] Game started
+[2025-12-24 13:14:01] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 13:14:02] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:14:02] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 13:14:03] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:14:03] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:14:03] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:14:10] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:14:10] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:14:11] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:14:11] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:14:11] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:14:21] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:14:21] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:14:21] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 13:14:27] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:14:27] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 13:14:33] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:14:33] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:14:33] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:14:43] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 13:14:44] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:14:44] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 13:14:44] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 13:14:44] [INFO] Final score: 0
+[2025-12-24 13:19:02] [INFO] Game started
+[2025-12-24 13:19:02] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 13:19:03] [INFO] STATE Game: PLAYING -> PAUSED
+[2025-12-24 13:19:07] [INFO] STATE Game: PAUSED -> PLAYING
+[2025-12-24 13:19:07] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:07] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 13:19:09] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:09] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 13:19:12] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:19:12] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:19:12] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:19:19] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:19] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:19:20] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:20] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:19:22] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 13:19:29] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:29] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 13:19:31] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:31] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 13:19:37] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:37] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 13:19:37] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 13:19:37] [INFO] Final score: 0
+[2025-12-24 13:19:39] [INFO] Game started
+[2025-12-24 13:19:39] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 13:19:40] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:40] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 13:19:42] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:19:42] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:19:42] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:19:44] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:44] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:19:44] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:44] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:19:46] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:19:46] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:19:50] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:19:50] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:19:50] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:20:00] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 13:20:04] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:20:04] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 13:20:18] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:20:18] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:20:18] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:20:21] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:20:21] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:20:28] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 13:20:55] [INFO] STATE Game: PLAYING -> WIN
+[2025-12-24 13:24:52] [INFO] Game started
+[2025-12-24 13:24:52] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 13:24:54] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:24:54] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:24:54] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:24:54] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:24:54] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:24:58] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:24:58] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:25:01] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:25:01] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:25:04] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 13:25:09] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:25:09] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 13:25:28] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:25:28] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 13:25:51] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:25:51] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:25:51] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:25:56] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 13:25:56] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 13:26:01] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 13:26:03] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 13:26:03] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 13:26:03] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 13:26:13] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 13:26:29] [INFO] STATE Game: PLAYING -> WIN
+[2025-12-24 13:26:29] [INFO] Final score: 1420
+[2025-12-24 16:37:08] [INFO] Game started
+[2025-12-24 16:37:08] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 16:37:09] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:37:09] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 16:38:22] [INFO] Game started
+[2025-12-24 16:38:22] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 16:38:24] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:38:24] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 16:38:25] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:38:25] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 16:38:28] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 16:38:28] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 16:38:28] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 16:38:36] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:38:36] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:38:38] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 16:38:39] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:38:39] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 16:38:39] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 16:38:39] [INFO] Final score: 0
+[2025-12-24 16:38:43] [INFO] Game started
+[2025-12-24 16:38:43] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 16:38:49] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 16:38:49] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 16:38:49] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 16:38:53] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:38:53] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:38:54] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:38:54] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:38:59] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 16:39:04] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:39:04] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 16:39:05] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:39:05] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 16:39:07] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:39:07] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 16:39:07] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 16:39:07] [INFO] Final score: 0
+[2025-12-24 16:41:18] [INFO] Game started
+[2025-12-24 16:41:18] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 16:41:20] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:41:20] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 16:41:22] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 16:41:22] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 16:41:22] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 16:41:25] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:41:25] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:41:31] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:41:31] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:41:32] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 16:41:37] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:41:37] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 16:41:46] [INFO] STATE Game: PLAYING -> PAUSED
+[2025-12-24 16:44:58] [INFO] Game started
+[2025-12-24 16:44:58] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 16:44:59] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:44:59] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 16:45:00] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 16:45:00] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 16:45:00] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 16:45:05] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 16:45:05] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 16:45:05] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 16:45:05] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:45:05] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:45:06] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:45:06] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:45:12] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:45:12] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:45:15] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 16:45:19] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:45:19] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 16:45:21] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 16:45:21] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 16:45:21] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 16:45:26] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:45:26] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:45:31] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 16:45:34] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:45:34] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 16:45:41] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:45:41] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 16:45:41] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 16:45:41] [INFO] Final score: 0
+[2025-12-24 16:58:47] [INFO] Game started
+[2025-12-24 16:58:47] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 16:58:49] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:58:49] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 16:58:50] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 16:58:50] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 16:58:50] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 16:58:55] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:58:55] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 16:59:00] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 16:59:02] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:59:02] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 16:59:10] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 16:59:10] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 16:59:10] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 16:59:20] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 16:59:22] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 16:59:22] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 16:59:22] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 16:59:22] [INFO] Final score: 0
+[2025-12-24 17:09:01] [INFO] Game started
+[2025-12-24 17:09:01] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:09:02] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:09:02] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 17:09:04] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:09:04] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 17:09:05] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:09:05] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:09:05] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:09:15] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:09:15] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:09:15] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 17:09:15] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 17:09:15] [INFO] Final score: 0
+[2025-12-24 17:09:19] [INFO] Game started
+[2025-12-24 17:09:19] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:09:21] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:09:21] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:09:21] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:09:23] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:09:23] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:09:31] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:09:37] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:09:37] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:09:37] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:09:38] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:09:38] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:09:39] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:09:39] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:09:47] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:17:17] [INFO] Game started
+[2025-12-24 17:17:17] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:17:18] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:17:18] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 17:17:19] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:17:19] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:17:19] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:17:26] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:17:26] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:17:26] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:17:29] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:17:29] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:17:35] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:17:35] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:17:35] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:17:38] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:17:38] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:17:44] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:17:44] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:17:45] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:22:52] [INFO] Game started
+[2025-12-24 17:22:52] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:22:53] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:22:53] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:22:53] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:23:03] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:23:04] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:23:04] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 17:23:05] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:23:05] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 17:23:06] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:23:06] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 17:23:06] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 17:23:06] [INFO] Final score: 0
+[2025-12-24 17:23:08] [INFO] Game started
+[2025-12-24 17:23:08] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:23:09] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:23:09] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 17:23:13] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:23:13] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:23:13] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:23:21] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:23:21] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:23:23] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:23:23] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:23:23] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:23:27] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:23:27] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:23:27] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:23:27] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:23:27] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:23:37] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:31:13] [INFO] Game started
+[2025-12-24 17:31:13] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:31:15] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:31:15] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:31:15] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:31:15] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:31:15] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=80_000_000 ns/tick
+[2025-12-24 17:31:20] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:31:20] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:31:21] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:31:21] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:31:23] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:31:23] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:31:23] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:31:23] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:31:23] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=80_000_000 ns/tick
+[2025-12-24 17:31:26] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:31:26] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:31:29] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:31:29] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:31:33] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:31:33] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=150_000_000 ns/tick
+[2025-12-24 17:32:04] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:32:04] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:32:04] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:32:04] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:32:04] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=80_000_000 ns/tick
+[2025-12-24 17:32:14] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:32:14] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=150_000_000 ns/tick
+[2025-12-24 17:32:32] [INFO] STATE Game: PLAYING -> WIN
+[2025-12-24 17:32:32] [INFO] Final score: 3410
+[2025-12-24 17:32:35] [INFO] Game started
+[2025-12-24 17:32:35] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:32:36] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:32:36] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 17:32:44] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:32:44] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:32:44] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:32:44] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:32:44] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=80_000_000 ns/tick
+[2025-12-24 17:32:50] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:32:50] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:32:54] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:32:54] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=150_000_000 ns/tick
+[2025-12-24 17:33:01] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:33:01] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 17:33:02] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:33:02] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 17:33:02] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 17:33:02] [INFO] Final score: 0
+[2025-12-24 17:34:32] [INFO] Game started
+[2025-12-24 17:34:32] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:34:33] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:34:33] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 17:34:34] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:34:34] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:34:34] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:34:34] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:34:34] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=80_000_000 ns/tick
+[2025-12-24 17:34:39] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:34:39] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:34:44] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:34:44] [INFO] [DECORATOR] speed=150_000_000 ns/tick
+[2025-12-24 17:34:45] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:34:45] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 17:34:46] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:34:46] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 17:34:46] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 17:34:46] [INFO] Final score: 0
+[2025-12-24 17:40:28] [INFO] Game started
+[2025-12-24 17:40:28] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:40:30] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:40:30] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 17:40:31] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:40:31] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:40:31] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:40:31] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:40:31] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=80_000_000 ns/tick
+[2025-12-24 17:40:36] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:40:36] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:40:41] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:40:41] [INFO] [DECORATOR] speed=150_000_000 ns/tick
+[2025-12-24 17:40:42] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:40:42] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 17:40:45] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:40:45] [INFO] [STATE] PacMan lives = 0
+[2025-12-24 17:40:45] [INFO] STATE Game: PLAYING -> GAME_OVER
+[2025-12-24 17:40:45] [INFO] Final score: 0
+[2025-12-24 17:40:49] [INFO] Game started
+[2025-12-24 17:40:49] [INFO] STATE Game: MENU -> PLAYING
+[2025-12-24 17:40:50] [INFO] STATE Game: PLAYING -> PAUSED
+[2025-12-24 17:41:07] [INFO] STATE Game: PAUSED -> PLAYING
+[2025-12-24 17:41:08] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:41:08] [INFO] [STATE] PacMan lives = 2
+[2025-12-24 17:41:09] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:41:09] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:41:09] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:41:09] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:41:09] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=80_000_000 ns/tick
+[2025-12-24 17:41:16] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:41:16] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:41:19] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:41:19] [INFO] [DECORATOR] speed=150_000_000 ns/tick
+[2025-12-24 17:41:20] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:41:20] [INFO] [STATE] PacMan lives = 1
+[2025-12-24 17:41:27] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:41:27] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:41:27] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:41:27] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:41:27] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=80_000_000 ns/tick
+[2025-12-24 17:41:32] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:41:32] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:41:35] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:41:35] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:41:37] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:41:37] [INFO] [DECORATOR] speed=150_000_000 ns/tick
+[2025-12-24 17:41:39] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:41:39] [INFO] [DECORATOR] Invincible applied to PacMan (10s)
+[2025-12-24 17:41:39] [INFO] [DECORATOR] Super applied to PacMan (10s)
+[2025-12-24 17:41:39] [INFO] [DECORATOR] SpeedBoost applied to PacMan (10s)
+[2025-12-24 17:41:39] [INFO] [DECORATOR] SpeedBoost applied to PacMan | speed=80_000_000 ns/tick
+[2025-12-24 17:41:42] [INFO] [COLLISION] PacMan collided with Ghost
+[2025-12-24 17:41:42] [INFO] [ENTITY] Ghost destroyed
+[2025-12-24 17:41:49] [INFO] [DECORATOR] PowerMode removed from PacMan
+[2025-12-24 17:41:49] [INFO] [DECORATOR] speed=150_000_000 ns/tick
+[2025-12-24 17:42:33] [INFO] STATE Game: PLAYING -> WIN
+[2025-12-24 17:42:33] [INFO] Final score: 2670
