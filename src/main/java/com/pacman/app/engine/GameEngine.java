@@ -49,7 +49,7 @@ public class GameEngine implements PowerModeObserver {
     public GameEngine() {
         this.gameState = GameState.MENU;
 
-        // Pac-Man في الوسط
+        // Pac-Man 
         this.pacman = new PacMan(10, 9);
 
         // Maze
@@ -111,37 +111,37 @@ public class GameEngine implements PowerModeObserver {
             log.info("[COLLISION] PacMan collided with Ghost");
 
 
-            // 👻 PacMan eats ghost
+            //  PacMan eats ghost
             if (pacman.canEatGhosts()) {
                 ghosts.remove(ghost);
                 pacman.addScore(200);
-                System.out.println("👻 Ghost eaten!");
+                System.out.println(" Ghost eaten!");
                 log.info("[ENTITY] Ghost destroyed");
                 return;
             }
-            // 😎 PacMan invincible
+            //  PacMan invincible
             if (pacman.isInvincible()) {
-                System.out.println("PacMan invincible 😎");
+                System.out.println("PacMan invincible ");
                 return;
             }
 
-            // 💀 PacMan dies
+            //  PacMan dies
             pacman.loseLife();
             pacman.resetScore();
-            System.out.println("💀 PacMan died! Lives = " + pacman.getLives());
+            System.out.println(" PacMan died! Lives = " + pacman.getLives());
             log.info("[STATE] PacMan lives = {}", pacman.getLives());
 
-            // ❌ GAME OVER
+            //  GAME OVER
             if (pacman.getLives() <= 0) {
                 gameState = GameState.LOSE;
-                System.out.println("🛑 GAME OVER");
+                System.out.println(" GAME OVER");
                 log.info("STATE Game: PLAYING -> GAME_OVER");
                 log.info("Final score: {}", pacman.getScore());
 
                 return;
             }
 
-            // 🔄 Reset positions (still alive)
+            //  Reset positions (still alive)
             resetPositions();
             return;
         }
@@ -222,14 +222,14 @@ public class GameEngine implements PowerModeObserver {
         }
         PacMan p = pacman;
 
-        // 🔥 Decorators stack
+        // Decorators stack
         p = new SuperPacMan(p);
         p = new SpeedBoostPacMan(p);
         p = new InvinciblePacMan(p);
 
         setPacman(p);
 
-        // 👻 Ghosts
+        //  Ghosts
         ghosts.forEach(g -> g.setState(new FrightenedState(new RandomStrategy())));
 
         pacman.addScore(50);
@@ -242,12 +242,12 @@ public class GameEngine implements PowerModeObserver {
 
 
 
-        System.out.println("🔥 POWER MODE STARTED");
+        System.out.println(" POWER MODE STARTED");
     }
     @Override
     public void onPowerModeEnd() {
         powerModeActive = false;
-        System.out.println("⏱️ POWER MODE ENDED");
+        System.out.println(" POWER MODE ENDED");
 
         pacman = basePacman;
         basePacman = null;
