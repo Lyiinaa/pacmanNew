@@ -111,9 +111,9 @@ public class GameView extends GridPane {
             Circle g = new Circle(CELL_SIZE / 2.0 - 4);
 
             if (ghost.getState() instanceof FrightenedState) {
-                g.setFill(Color.DODGERBLUE); // 🔵
+                g.setFill(Color.DODGERBLUE); 
             } else {
-                g.setFill(Color.RED); // 🔴
+                g.setFill(Color.RED);  
             }
 
             g.setTranslateX(CELL_SIZE / 2.0);
